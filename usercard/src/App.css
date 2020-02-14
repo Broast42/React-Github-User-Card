@@ -79,3 +79,11 @@ h5{
 h6{
   font-size: 1rem;
 }
+
+img{
+  width: 200px;
+}
+
+img.folowers{
+  width: 100px;
+}
